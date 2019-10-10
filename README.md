@@ -2,6 +2,11 @@
 
 Everything you need to know to find a android job. 
 
+<br>
+<br>
+
+----
+
 ### 涵盖方面
 
 - 算法 
@@ -10,10 +15,10 @@ Everything you need to know to find a android job.
 
 - Android 知识点
 
-<br>
-<br>
-
 ----
+
+<br>
+<br>
 
 ### 算法
 
@@ -52,7 +57,7 @@ Everything you need to know to find a android job.
 - [yuanhao_1999 - My life not only coding ~](https://blog.csdn.net/qq_43377749)
 
 2. 掘金博客地址：
-- [排序 + ](https://github.com/FishInWater-1999/SQLiteSample)
+- [_yuanhao 的个人主页 - 掘金](https://juejin.im/user/5d00b2ee6fb9a07ef5622eed)
 
 3. 简书博客地址：
 - [排序 + ](https://github.com/FishInWater-1999/SQLiteSample)
@@ -61,7 +66,7 @@ Everything you need to know to find a android job.
 - [排序 + ](https://github.com/FishInWater-1999/SQLiteSample)
 
 5. 个人博客地址：
-- [排序 + ](https://github.com/FishInWater-1999/SQLiteSample)
+- [_yuanhao](https://fishinwater-1999.github.io/)
 
 6. 个人博客项目地址：
 - [排序 + ](https://github.com/FishInWater-1999/SQLiteSample)
