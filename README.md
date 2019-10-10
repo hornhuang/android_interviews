@@ -1,6 +1,6 @@
-# android_interviews
+# android_interviews 🔥🔥🔥
 
-Everything you need to know to find a android job. 
+🚀Everything you need to know to find a android job. 🚀
 
 <br>
 <br>
@@ -22,7 +22,7 @@ Everything you need to know to find a android job.
 
 ### 算法
 
-- **[排序 + ](https://github.com/FishInWater-1999/SQLiteSample)**
+- **[排序 + 二叉树 典藏全家桶](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E6%8E%92%E5%BA%8F%20%2B%20%E4%BA%8C%E5%8F%89%E6%A0%91%20%E5%85%B8%E8%97%8F%E5%85%A8%E5%AE%B6%E6%A1%B6.md)**
 
 - **更新中，请保持关注**
 
