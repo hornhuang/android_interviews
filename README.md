@@ -13,11 +13,13 @@ Everything you need to know to find a android job.
 <br>
 <br>
 
+----
+
 ### 算法
 
-##### [排序 + ](https://github.com/FishInWater-1999/SQLiteSample)
+- **[排序 + ](https://github.com/FishInWater-1999/SQLiteSample)**
 
-##### 更新中，请保持关注
+- **更新中，请保持关注**
 
 ----
 
@@ -26,7 +28,7 @@ Everything you need to know to find a android job.
 
 ## 面试题
 
-##### 更新中，请保持关注
+- **更新中，请保持关注**
 
 ----
 
@@ -35,7 +37,7 @@ Everything you need to know to find a android job.
 
 ## android 知识点
 
-##### 更新中，请保持关注
+- **更新中，请保持关注**
 
 ----
 
