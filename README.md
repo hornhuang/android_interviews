@@ -37,7 +37,9 @@
 
 - **[排序 + 二叉树 典藏全家桶](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E6%8E%92%E5%BA%8F%20%2B%20%E4%BA%8C%E5%8F%89%E6%A0%91%20%E5%85%B8%E8%97%8F%E5%85%A8%E5%AE%B6%E6%A1%B6.md)**
 
-- **更新中，请保持关注**
+- **[链表 + 栈 + 队列 全家桶](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%F0%9F%94%A5%20%E9%93%BE%E8%A1%A8%20%2B%20%E6%A0%88%20%20%2B%20%E9%98%9F%E5%88%97%20%E9%83%A8%E5%88%86%EF%BC%81%F0%9F%94%A5.md)**
+
+- **[二分 + 哈希表 + 堆 + 优先队列全家桶](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%F0%9F%94%A5%20%E4%BA%8C%E5%88%86%20%2B%20%E5%93%88%E5%B8%8C%E8%A1%A8%20%2B%20%E5%A0%86%20%2B%20%E4%BC%98%E5%85%88%E9%98%9F%E5%88%97%20%E9%83%A8%E5%88%86%EF%BC%81%F0%9F%94%A5.md)**
 
 ----
 
@@ -73,10 +75,10 @@
 - [_yuanhao 的个人主页 - 掘金](https://juejin.im/user/5d00b2ee6fb9a07ef5622eed)
 
 3. 简书博客地址：
-- [排序 + ](https://github.com/FishInWater-1999/SQLiteSample)
+- [_yuanhao - 简书](https://www.jianshu.com/u/dfdd57aee7df)
 
 4. 博客园地址：
-- [排序 + ](https://github.com/FishInWater-1999/SQLiteSample)
+- [_yuanhao - 博客园](https://www.cnblogs.com/yuanhao-1999/)
 
 5. 个人博客地址：
 - [_yuanhao](https://fishinwater-1999.github.io/)
