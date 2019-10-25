@@ -35,11 +35,35 @@
 
 ### 算法
 
-- **[排序 + 二叉树 典藏全家桶](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E6%8E%92%E5%BA%8F%20%2B%20%E4%BA%8C%E5%8F%89%E6%A0%91%20%E5%85%B8%E8%97%8F%E5%85%A8%E5%AE%B6%E6%A1%B6.md)**
+- **[二分搜索](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E4%BA%8C%E5%88%86%E6%90%9C%E7%B4%A2.md)**
 
-- **[链表 + 栈 + 队列 全家桶](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%F0%9F%94%A5%20%E9%93%BE%E8%A1%A8%20%2B%20%E6%A0%88%20%20%2B%20%E9%98%9F%E5%88%97%20%E9%83%A8%E5%88%86%EF%BC%81%F0%9F%94%A5.md)**
+- **[二叉搜索树](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.md)**
 
-- **[二分 + 哈希表 + 堆 + 优先队列全家桶](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%F0%9F%94%A5%20%E4%BA%8C%E5%88%86%20%2B%20%E5%93%88%E5%B8%8C%E8%A1%A8%20%2B%20%E5%A0%86%20%2B%20%E4%BC%98%E5%85%88%E9%98%9F%E5%88%97%20%E9%83%A8%E5%88%86%EF%BC%81%F0%9F%94%A5.md)**
+- **[二叉树](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E4%BA%8C%E5%8F%89%E6%A0%91.md)**
+
+- **[二进制 & 位运算](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E4%BA%8C%E8%BF%9B%E5%88%B6%20%26%20%E4%BD%8D%E8%BF%90%E7%AE%97.md)**
+
+- **[其他](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E5%85%B6%E4%BB%96.md)**
+
+- **[动态规划](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92.md)**
+
+- **[哈希表](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E5%93%88%E5%B8%8C%E8%A1%A8.md)**
+
+- **[堆&优先队列](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E5%A0%86%26%E4%BC%98%E5%85%88%E9%98%9F%E5%88%97.md)**
+
+- **[字符串处理](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%A4%84%E7%90%86.md)**
+
+- **[排序](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E6%8E%92%E5%BA%8F.md)**
+
+- **[数组&双指针](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E6%95%B0%E7%BB%84%26%E5%8F%8C%E6%8C%87%E9%92%88.md)**
+
+- **[栈&队列](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E6%A0%88%26%E9%98%9F%E5%88%97.md)**
+
+- **[矩阵](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E7%9F%A9%E9%98%B5.md)**
+
+- **[贪心](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E8%B4%AA%E5%BF%83.md)**
+
+- **[链表](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E9%93%BE%E8%A1%A8.md)**
 
 ----
 
