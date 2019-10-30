@@ -72,7 +72,7 @@
 <br>
 <br>
 
-## 面试题
+## Java 必知必会
 
 - **更新中，请保持关注**
 
@@ -81,7 +81,7 @@
 <br>
 <br>
 
-## android 知识点
+## Android 知识点汇总
 
 - **[四大组件 - Activity](https://github.com/FishInWater-1999/android_interviews/blob/master/Android/%E5%9F%BA%E7%A1%80/%E5%9B%9B%E5%A4%A7%E7%BB%84%E4%BB%B6%20-%20Activity.md)**
 
