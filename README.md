@@ -94,22 +94,22 @@
 
 博客同步推进更新中，由于博客关注后有推送功能，大家可以对应的关注下，防止错过干货 🔥
 
-1. CSDN 博客地址：
-- [yuanhao_1999 - My life not only coding ~](https://blog.csdn.net/qq_43377749)
+- CSDN 博客地址：
+[yuanhao_1999 - My life not only coding ~](https://blog.csdn.net/qq_43377749)
 
-2. 掘金博客地址：
-- [_yuanhao 的个人主页 - 掘金](https://juejin.im/user/5d00b2ee6fb9a07ef5622eed)
+- 掘金博客地址：
+[_yuanhao 的个人主页 - 掘金](https://juejin.im/user/5d00b2ee6fb9a07ef5622eed)
 
-3. 简书博客地址：
-- [_yuanhao - 简书](https://www.jianshu.com/u/dfdd57aee7df)
+- 简书博客地址：
+[_yuanhao - 简书](https://www.jianshu.com/u/dfdd57aee7df)
 
-4. 博客园地址：
-- [_yuanhao - 博客园](https://www.cnblogs.com/yuanhao-1999/)
+- 博客园地址：
+[_yuanhao - 博客园](https://www.cnblogs.com/yuanhao-1999/)
 
-5. 个人博客地址：
-- [_yuanhao](https://fishinwater-1999.github.io/)
+- 个人博客地址：
+[_yuanhao](https://fishinwater-1999.github.io/)
 
-6. 个人博客项目地址：
-- [排序 + ](https://github.com/FishInWater-1999/SQLiteSample)
+- 个人博客项目地址：
+[排序 + ](https://github.com/FishInWater-1999/SQLiteSample)
 
 <br>
