@@ -84,48 +84,27 @@
 
 <br>
 
-[FishInWater-1999](https://github.com/FishInWater-1999)
+#### CSDN 博客地址：[yuanhao_1999 - My life not only coding ~](https://blog.csdn.net/qq_43377749)
 
 <br>
 
-- CSDN 博客地址：
-[yuanhao_1999 - My life not only coding ~](https://blog.csdn.net/qq_43377749)
+#### 掘金博客地址：[_yuanhao 的个人主页 - 掘金](https://juejin.im/user/5d00b2ee6fb9a07ef5622eed)
 
 <br>
 
-- 掘金博客地址：
+#### 简书博客地址：[_yuanhao - 简书](https://www.jianshu.com/u/dfdd57aee7df)
 
 <br>
 
-[_yuanhao 的个人主页 - 掘金](https://juejin.im/user/5d00b2ee6fb9a07ef5622eed)
+#### 博客园地址：[_yuanhao - 博客园](https://www.cnblogs.com/yuanhao-1999/)
 
 <br>
 
-- 简书博客地址：
+#### 个人博客地址：[fishinwater-1999.github.io](https://fishinwater-1999.github.io/)
 
 <br>
 
-[_yuanhao - 简书](https://www.jianshu.com/u/dfdd57aee7df)
-
-<br>
-
-- 博客园地址：
-
-<br>
-
-[_yuanhao - 博客园](https://www.cnblogs.com/yuanhao-1999/)
-
-<br>
-
-- 个人博客地址：
-
-<br>
-
-[fishinwater-1999.github.io](https://fishinwater-1999.github.io/)
-
-<br>
-
-- GitHub 地址：
+#### GitHub 地址：[FishInWater-1999](https://github.com/FishInWater-1999)
 
 <br>
 
