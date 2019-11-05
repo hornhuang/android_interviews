@@ -8,14 +8,9 @@
 ![glide 4.9.0](https://img.shields.io/badge/glide-4.9.0-green.svg?style=flat)
 
 🚀Everything you need to know to find a android job. 🚀 <br>
-涵盖方面：`Android 知识点` `面试题` `算法`
+`Android 知识点` `面试题` `算法`
 
 ![面试](https://img-blog.csdnimg.cn/20191019105602815.png)
-
-<br>
-<br>
-
-----
 
 <br>
 <br>
@@ -27,8 +22,6 @@
 - 为了防止更新速度过快，文章质量下降的问题，宁可更新速度慢，也要保证质量
 
 - 不求快，只求优质，每篇文章将以 2 ～ 3 天的周期进行更新，力求保持高质量输出
-
-----
 
 <br>
 <br>
@@ -65,7 +58,6 @@
 
 - **[链表](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E9%93%BE%E8%A1%A8.md)**
 
-----
 
 <br>
 <br>
@@ -73,8 +65,6 @@
 ## Java 必知必会
 
 - **更新中，请保持关注**
-
-----
 
 <br>
 <br>
@@ -84,7 +74,6 @@
 - **[四大组件 - Activity](https://github.com/FishInWater-1999/android_interviews/blob/master/Android/%E5%9F%BA%E7%A1%80/%E5%9B%9B%E5%A4%A7%E7%BB%84%E4%BB%B6%20-%20Activity.md)**
 
 - **[四大组件 - Service](https://github.com/FishInWater-1999/android_interviews/blob/master/Android/%E5%9F%BA%E7%A1%80/%E5%9B%9B%E5%A4%A7%E7%BB%84%E4%BB%B6%20-%20Service.md)**
-----
 
 <br>
 <br>
