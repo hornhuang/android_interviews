@@ -26,7 +26,7 @@
 <br>
 <br>
 
-### 算法
+## 算法
 
 - **[二分搜索](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E4%BA%8C%E5%88%86%E6%90%9C%E7%B4%A2.md)**
 
@@ -89,9 +89,6 @@
 <br>
 
 - CSDN 博客地址：
-
-<br>
-
 [yuanhao_1999 - My life not only coding ~](https://blog.csdn.net/qq_43377749)
 
 <br>
