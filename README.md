@@ -7,22 +7,13 @@
 ![okhttp3 3.12.1](https://img.shields.io/badge/okhttp3-3.12.1-blue.svg?style=flat)
 ![glide 4.9.0](https://img.shields.io/badge/glide-4.9.0-green.svg?style=flat)
 
-🚀Everything you need to know to find a android job. 🚀
+🚀Everything you need to know to find a android job. 🚀 <br>
+涵盖方面：`Android 知识点` `面试题` `算法`
 
 ![面试](https://img-blog.csdnimg.cn/20191019105602815.png)
 
 <br>
 <br>
-
-----
-
-### 涵盖方面
-
-- 算法 
-
-- 面试题 
-
-- Android 知识点
 
 ----
 
