@@ -1,6 +1,6 @@
 # android_interviews 🔥🔥🔥
 
-![二分搜索](https://img.shields.io/badge/Binary-search-orange.svg?style=flat)
+![二分搜索 Binary search](https://img.shields.io/badge/Binary-search-orange.svg?style=flat)
 ![SdkVersion 28](https://img.shields.io/badge/SdkVersion-28-green.svg?style=flat)
 ![rxjava2 2.2.3](https://img.shields.io/badge/rxjava2-2.2.3-red.svg?style=flat)
 ![rxandroid 2.1.0](https://img.shields.io/badge/rxandroid-2.1.0-grown.svg?style=flat)
