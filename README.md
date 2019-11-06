@@ -1,5 +1,17 @@
 # android_interviews 🔥🔥🔥
 
+![二分搜索](https://img.shields.io/badge/Binary-search-orange.svg?style=flat)
+![SdkVersion 28](https://img.shields.io/badge/SdkVersion-28-green.svg?style=flat)
+![rxjava2 2.2.3](https://img.shields.io/badge/rxjava2-2.2.3-red.svg?style=flat)
+![rxandroid 2.1.0](https://img.shields.io/badge/rxandroid-2.1.0-grown.svg?style=flat)
+![okhttp3 3.12.1](https://img.shields.io/badge/okhttp3-3.12.1-blue.svg?style=flat)
+![glide 4.9.0](https://img.shields.io/badge/glide-4.9.0-green.svg?style=flat)
+![排序 sort](https://img.shields.io/badge/排序-sort-orange.svg?style=flat)
+![SdkVersion 28](https://img.shields.io/badge/SdkVersion-28-green.svg?style=flat)
+![rxjava2 2.2.3](https://img.shields.io/badge/rxjava2-2.2.3-red.svg?style=flat)
+![rxandroid 2.1.0](https://img.shields.io/badge/rxandroid-2.1.0-grown.svg?style=flat)
+![okhttp3 3.12.1](https://img.shields.io/badge/okhttp3-3.12.1-blue.svg?style=flat)
+![glide 4.9.0](https://img.shields.io/badge/glide-4.9.0-green.svg?style=flat)
 ![排序 sort](https://img.shields.io/badge/排序-sort-orange.svg?style=flat)
 ![SdkVersion 28](https://img.shields.io/badge/SdkVersion-28-green.svg?style=flat)
 ![rxjava2 2.2.3](https://img.shields.io/badge/rxjava2-2.2.3-red.svg?style=flat)
