@@ -1,4 +1,106 @@
-与 APP 之间的消息通信。
+# 前言
+
+----
+
+- 本篇文章将对 `BroadcastReceiver` 开发中，可能用到的知识点，可能遇到的问题进行总结。
+- 希望本文能帮助你揭开 `Android` 开发过程中的难题。
+
+> 最后，希望大家阅读愉快！
+
+# 文章目录
+
+----
+
+![BroadcastReceiver](https://user-gold-cdn.xitu.io/2019/11/8/16e48ac176ef2b27?w=1186&h=1128&f=png&s=139626)
+
+# 方便大家学习，我在 GitHub 上建立个 仓库
+
+----
+
+- 仓库内容与博客同步更新。由于我在 `稀土掘金` `简书` `CSDN` `博客园` 等站点，都有新内容发布。所以大家可以直接关注该仓库，以免错过精彩内容！
+
+- 仓库地址：
+[超级干货！精心归纳 `Android` 、`JVM` 、算法等，各位帅气的老铁支持一下！给个 Star ！](https://github.com/FishInWater-1999/android_interviews)
+
+
+# 一、BroadcastReceiver
+
+----
+
+- `BroadcastReceiver`，顾名思义就是“广播接收者”的意思，它是Android四大基本组件之一。
+- 这种组件本质上是一种全局的监听器，用于监听系统全局的广播消息。
+- 它可以接收来自系统和应用的的广播。
+
+## 1.1 什么是 BroadcastReceiver
+
+![什么是 BroadcastReceiver](https://user-gold-cdn.xitu.io/2019/11/8/16e48ac1720e2d52?w=525&h=185&f=png&s=12804)
+
+- 是四大组件之一, 主要用于接收 `app` 发送的广播
+- 内部通信实现机制:通过 `android` 系统的 `Binder` 机制.
+
+## 1.2 广播分为两种
+
+![广播分为两种](https://user-gold-cdn.xitu.io/2019/11/8/16e48ac1774dc971?w=296&h=183&f=png&s=6410)
+
+#### 1.2.1 无序广播
+
+![无序广播](https://user-gold-cdn.xitu.io/2019/11/8/16e48ac17759b96f?w=614&h=236&f=png&s=25709)
+
+- 也叫标准广播，是一种完全异步执行的广播。
+- 在广播发出之后，所有广播接收器几乎都会在同一时刻接收到这条广播消息，它们之间没有任何先后顺序，广播的效率较高。
+- 优点: 完全异步, 逻辑上可被任何接受者收到广播,效率高
+- 缺点: 接受者不能将处理结果交给下一个接受者, 且无法终止广播.
+
+#### 1.2.2 有序广播
+
+![有序广播](https://user-gold-cdn.xitu.io/2019/11/8/16e48ac19ee293d4?w=1131&h=248&f=png&s=46926)
+
+- 是一种同步执行的广播。
+- 在广播发出之后，同一时刻只有一个广播接收器能够收到这条广播消息，当其逻辑执行完后该广播接收器才会继续传递。
+- 调用 `SendOrderedBroadcast()` 方法来发送广播，同时也可调用 `abortBroadcast()` 方法拦截该广播。可通过 `<intent-filter>` 标签中设置 `android:property` 属性来设置优先级，未设置时按照注册的顺序接收广播。
+- 有序广播接受器间可以互传数据。
+- 当广播接收器收到广播后，当前广播也可以使用 `setResultData` 方法将数据传给下一个接收器。
+- 使用 `getStringExtra` 函数获取广播的原始数据，通过 `getResultData` 方法取得上个广播接收器自己添加的数据，并可用 `abortBroadcast` 方法丢弃该广播，使该广播不再被别的接收器接收到。
+
+![总结](https://user-gold-cdn.xitu.io/2019/11/8/16e48ac19f368f18?w=526&h=229&f=png&s=16342)
+
+- 总结
+1. 按被接收者的优先级循序传播 `A > B > C` ,
+2. 每个都有权终止广播, 下一个就得不到
+3. 每一个都可进行修改操作, 下一个就得到上一个修改后的结果.
+
+#### 1.2.3 最终广播者
+
+![最终广播者](https://user-gold-cdn.xitu.io/2019/11/8/16e48ac19f459e2a?w=1057&h=238&f=png&s=31353)
+
+- `Context.sendOrderedBroadcast ( intent , receiverPermission , resultReceiver , scheduler , initialCode , initialData , initialExtras )` 时我们可以指定 `resultReceiver` 为最终广播接收者.
+- 如果比他优先级高的接受者不终止广播, 那么他的 `onReceive` 会执行两次
+- 第一次是正常的接收
+- 第二次是最终的接收
+- 如果优先级高的那个终止广播, 那么他还是会收到一次最终的广播
+
+#### 1.2.4 常见的广播接收者运用场景
+
+![广播接收者运用场景](https://user-gold-cdn.xitu.io/2019/11/8/16e48ac19fd511fe?w=608&h=190&f=png&s=16215)
+
+- 开机启动, `sd` 卡挂载, 低电量, 外拨电话, 锁屏等
+- 比如根据产品经理要求, 设计播放音乐时, 锁屏是否决定暂停音乐.
+
+
+## 1.3 BroadcastReceiver 的种类
+
+
+#### 1.3.1 广播作为 Android 组件间的通信方式，如下使用场景：
+
+> 对前一部分 “ 请描述一下 `BroadcastReceiver` ” 进行展开补充
+
+
+![BroadcastReceiver 使用场景](https://user-gold-cdn.xitu.io/2019/11/8/16e48ac1a415f2f9?w=1122&h=320&f=png&s=57892)
+
+- `APP` 内部的消息通信。
+- 不同 `APP` 之间的消息通信。
+
+- `Android` 系统在特定情况下与 APP 之间的消息通信。
 
 - 广播使用了观察者模式，基于消息的发布 / 订阅事件模型。广播将广播的发送者和接受者极大程度上解耦，使得系统能够方便集成，更易扩展。
 
