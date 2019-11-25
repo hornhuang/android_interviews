@@ -81,6 +81,12 @@
 
 - **[四大组件 - Service](https://github.com/FishInWater-1999/android_interviews/blob/master/Android/%E5%9F%BA%E7%A1%80/%E5%9B%9B%E5%A4%A7%E7%BB%84%E4%BB%B6%20-%20Service.md)**
 
+- **[四大组件 - Content-Provider]()**
+
+- **[四大组件 - Broadcast-Receiver]()**
+
+- **[View 事件处理]()**
+
 <br>
 <br>
 
