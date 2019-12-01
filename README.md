@@ -14,7 +14,7 @@
 ![glide 4.9.0](https://img.shields.io/badge/glide-4.9.0-green.svg?style=flat)
 
 🚀Everything you need to know to find a android job. 🚀 <br>
-`Android 知识点` `面试题` `算法`
+`Android 知识点` `面试题` `算法` 等
 
 ![面试](https://img-blog.csdnimg.cn/20191019105602815.png)
 
