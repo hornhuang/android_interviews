@@ -4,4 +4,7 @@
 
 ## 总结不易，不要外传
 - 这些图仅限本仓库使用，请勿外传
-- 如果想要在自己的 文章/课件 里引用，请务必附上本仓库地址：[]()
+- 如果想要在自己的 文章/课件 里引用，请务必附上本仓库地址：[https://github.com/FishInWater-1999/android_interviews](https://github.com/FishInWater-1999/android_interviews)
+
+
+![]()
