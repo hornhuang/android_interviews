@@ -35,6 +35,8 @@
 ## 算法
 
 - **[二分搜索](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E4%BA%8C%E5%88%86%E6%90%9C%E7%B4%A2.md)**
+  - [二分搜索](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E4%BA%8C%E5%88%86%E6%90%9C%E7%B4%A2.md#%E4%BA%8C%E5%88%86%E6%90%9C%E7%B4%A2)
+  - [X的平方根](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E4%BA%8C%E5%88%86%E6%90%9C%E7%B4%A2.md#x%E7%9A%84%E5%B9%B3%E6%96%B9%E6%A0%B9)
 
 - **[二叉搜索树](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.md)**
 
