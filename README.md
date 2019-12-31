@@ -115,6 +115,17 @@
 
 #### GitHub 地址：[FishInWater-1999](https://github.com/FishInWater-1999)
 
+| Platform | URL |
+| ---------------- | ---------------------------- |
+| CSDN | [yuanhao_1999 - My life not only coding ~](https://blog.csdn.net/qq_43377749)  |
+| 掘金 | [_yuanhao 的个人主页 - 掘金](https://juejin.im/user/5d00b2ee6fb9a07ef5622eed)     |
+| 简书 | [_yuanhao - 简书](https://www.jianshu.com/u/dfdd57aee7df) |
+| 博客园 | [_yuanhao - 博客园](https://www.cnblogs.com/yuanhao-1999/) |
+| 个人博客 | [fishinwater-1999.github.io](https://fishinwater-1999.github.io/) |
+| GitHub | [FishInWater-1999](https://github.com/FishInWater-1999) |
+
+
+
 <br>
 
 # LICENSE
