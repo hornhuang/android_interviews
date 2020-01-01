@@ -73,8 +73,9 @@
 ## Java 必知必会
 
 - 基础
-  - [类]()
-  - [接口]()
+  - [类](https://github.com/FishInWater-1999/android_interviews/tree/master/Java/%E7%B1%BB)
+  - [接口](https://github.com/FishInWater-1999/android_interviews/tree/master/Java/%E6%8E%A5%E5%8F%A3)
+  - [关键字](https://github.com/FishInWater-1999/android_interviews/tree/master/Java/%E5%85%B3%E9%94%AE%E5%AD%97)
 
 - **更新中，请保持关注**
 
