@@ -116,4 +116,4 @@
 #### 读多写少选哪个集合？
 
 - CopyOnWrite
-
+前置条件（volatile Synchronized ReentrantLock）
