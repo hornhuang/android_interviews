@@ -46,6 +46,13 @@
   
   
 - **[二叉树](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E4%BA%8C%E5%8F%89%E6%A0%91.md)**
+  - [顺序遍历](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E4%BA%8C%E5%8F%89%E6%A0%91.md#%E9%A1%BA%E5%BA%8F%E9%81%8D%E5%8E%86)
+  - [层次遍历](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E4%BA%8C%E5%8F%89%E6%A0%91.md#%E5%B1%82%E6%AC%A1%E9%81%8D%E5%8E%86)
+  - [左右翻转](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E4%BA%8C%E5%8F%89%E6%A0%91.md#%E5%B7%A6%E5%8F%B3%E7%BF%BB%E8%BD%AC)
+  - [最大值](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E4%BA%8C%E5%8F%89%E6%A0%91.md#%E6%9C%80%E5%A4%A7%E5%80%BC)
+  - [最大深度](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E4%BA%8C%E5%8F%89%E6%A0%91.md#%E6%9C%80%E5%A4%A7%E6%B7%B1%E5%BA%A6)
+  - [最小深度](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E4%BA%8C%E5%8F%89%E6%A0%91.md#%E6%9C%80%E5%B0%8F%E6%B7%B1%E5%BA%A6)
+  - [平衡二叉树](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E4%BA%8C%E5%8F%89%E6%A0%91.md#%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91)
 
 - **[二进制 & 位运算](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E4%BA%8C%E8%BF%9B%E5%88%B6%20%26%20%E4%BD%8D%E8%BF%90%E7%AE%97.md)**
 
