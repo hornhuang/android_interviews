@@ -55,6 +55,7 @@
   - [平衡二叉树](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E4%BA%8C%E5%8F%89%E6%A0%91.md#%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91)
 
 - **[二进制 & 位运算](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E4%BA%8C%E8%BF%9B%E5%88%B6%20%26%20%E4%BD%8D%E8%BF%90%E7%AE%97.md)**
+  - [知识点预热](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E4%BA%8C%E8%BF%9B%E5%88%B6%20%26%20%E4%BD%8D%E8%BF%90%E7%AE%97.md#%E7%9F%A5%E8%AF%86%E7%82%B9%E9%A2%84%E7%83%AD)
 
 - **[其他](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E5%85%B6%E4%BB%96.md)**
 
