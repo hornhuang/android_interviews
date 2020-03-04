@@ -43,7 +43,6 @@
   - [验证二叉搜索树](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.md#%E9%AA%8C%E8%AF%81%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91)
   - [二叉搜索树中第K小的元素](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.md#%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%AD%E7%AC%ACk%E5%B0%8F%E7%9A%84%E5%85%83%E7%B4%A0)
   
-  
 - **[二叉树](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E4%BA%8C%E5%8F%89%E6%A0%91.md)**
   - [顺序遍历](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E4%BA%8C%E5%8F%89%E6%A0%91.md#%E9%A1%BA%E5%BA%8F%E9%81%8D%E5%8E%86)
   - [层次遍历](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E4%BA%8C%E5%8F%89%E6%A0%91.md#%E5%B1%82%E6%AC%A1%E9%81%8D%E5%8E%86)
@@ -57,8 +56,6 @@
   - [知识点预热](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E4%BA%8C%E8%BF%9B%E5%88%B6%20%26%20%E4%BD%8D%E8%BF%90%E7%AE%97.md#%E7%9F%A5%E8%AF%86%E7%82%B9%E9%A2%84%E7%83%AD)
   - [只出现一次的数字](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E4%BA%8C%E8%BF%9B%E5%88%B6%20%26%20%E4%BD%8D%E8%BF%90%E7%AE%97.md#%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97)
   - [格雷编码](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E4%BA%8C%E8%BF%9B%E5%88%B6%20%26%20%E4%BD%8D%E8%BF%90%E7%AE%97.md#%E6%A0%BC%E9%9B%B7%E7%BC%96%E7%A0%81)
-
-
 
 - **[其他](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E5%85%B6%E4%BB%96.md)**
 
