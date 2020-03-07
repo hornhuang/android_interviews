@@ -131,7 +131,7 @@
 - **[接口](https://github.com/FishInWater-1999/android_interviews/tree/master/Java/接口)**
   - [接口](https://github.com/FishInWater-1999/android_interviews/tree/master/Java/%E6%8E%A5%E5%8F%A3#%E6%8E%A5%E5%8F%A3%E6%A6%82%E5%BF%B5)
 - **[数据类型](https://github.com/FishInWater-1999/android_interviews/tree/master/Java/数据类型)**
-  - [Java String 可以有多长？](https://github.com/FishInWater-1999/android_interviews/tree/master/Java/数据类型/Java String 可以有多长？)
+  - [Java String 可以有多长？](https://github.com/FishInWater-1999/android_interviews/tree/master/Java/数据类型/Java String 可以有多长？/README.md)
 - **[方法](https://github.com/FishInWater-1999/android_interviews/tree/master/Java/方法)**
   - [怎样理解 Java 的方法分派？](https://github.com/FishInWater-1999/android_interviews/tree/master/Java/方法/怎样理解 Java 的方法分派？)
 - **[泛型](https://github.com/FishInWater-1999/android_interviews/tree/master/Java/泛型)**
