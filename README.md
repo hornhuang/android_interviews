@@ -122,6 +122,8 @@
 
 ## Java 必知必会
 
+> 一个超赞的开源库推荐 java-notes - [点击这里前往](https://github.com/FishInWater-1999/Java_Notes)
+
 - 基础
   - [类](https://github.com/FishInWater-1999/android_interviews/tree/master/Java/%E7%B1%BB)
   - [接口](https://github.com/FishInWater-1999/android_interviews/tree/master/Java/%E6%8E%A5%E5%8F%A3)
@@ -129,7 +131,6 @@
   - [类和接口](https://github.com/FishInWater-1999/android_interviews/tree/master/Java/%E7%B1%BB%E5%92%8C%E6%8E%A5%E5%8F%A3)
   - [集合](https://github.com/FishInWater-1999/android_interviews/tree/master/Java/%E9%9B%86%E5%90%88)
 - attention：2020 春节自今，更新了大量内容，由于时间问题该目录尚未更新，请大家在相应目录下学习
-
 - **更新中，请保持关注**
 
 <br>
