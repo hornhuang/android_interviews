@@ -158,7 +158,7 @@
 - **[四大组件](https://github.com/FishInWater-1999/android_interviews/tree/master/Android/1_四大组件)**
   - [Activity](https://github.com/FishInWater-1999/android_interviews/tree/master/Android/1_四大组件/1_Activity)
   - [Service](https://github.com/FishInWater-1999/android_interviews/tree/master/Android/1_四大组件/2_Service)
-  - [Broadcast](https://github.com/FishInWater-1999/android_interviews/tree/master/Android/1_四大组件/3_Broadcast)
+  - [BroadcastRecevier](https://github.com/FishInWater-1999/android_interviews/tree/master/Android/1_四大组件/3_BroadcastRecevier)
   - [ContentProvider](https://github.com/FishInWater-1999/android_interviews/tree/master/Android/1_四大组件/4_ContentProvider)
 - **[Fragment](https://github.com/FishInWater-1999/android_interviews/tree/master/Android/2_Fragment)**
 - **[事件分发](https://github.com/FishInWater-1999/android_interviews/tree/master/Android/3_事件分发)**
