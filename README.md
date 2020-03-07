@@ -133,10 +133,20 @@
 - **[数据类型](https://github.com/FishInWater-1999/android_interviews/tree/master/Java/数据类型)**
   - [Java String 可以有多长？](https://github.com/FishInWater-1999/android_interviews/tree/master/Java/数据类型/Java String 可以有多长？)
 - **[方法](https://github.com/FishInWater-1999/android_interviews/tree/master/Java/方法)**
+  - [怎样理解 Java 的方法分派？](https://github.com/FishInWater-1999/android_interviews/tree/master/Java/方法/怎样理解 Java 的方法分派？)
 - **[泛型](https://github.com/FishInWater-1999/android_interviews/tree/master/Java/泛型)**
+  - [Java 泛型的实现机制是怎样的？](https://github.com/FishInWater-1999/android_interviews/tree/master/Java/泛型/Java 泛型的实现机制是怎样的？)
 - **[类和接口](https://github.com/FishInWater-1999/android_interviews/tree/master/Java/类和接口)**
+  - [类 - 接口之间的关系](https://github.com/FishInWater-1999/android_interviews/tree/master/Java/%E7%B1%BB%E5%92%8C%E6%8E%A5%E5%8F%A3#%E7%B1%BB---%E6%8E%A5%E5%8F%A3%E4%B9%8B%E9%97%B4%E7%9A%84%E5%85%B3%E7%B3%BB)
+  - [接口，抽象类区别](https://github.com/FishInWater-1999/android_interviews/tree/master/Java/%E7%B1%BB%E5%92%8C%E6%8E%A5%E5%8F%A3#%E6%8E%A5%E5%8F%A3%E6%8A%BD%E8%B1%A1%E7%B1%BB%E5%8C%BA%E5%88%AB)
+  - [抽象类要不要实现接口的方法？](https://github.com/FishInWater-1999/android_interviews/tree/master/Java/%E7%B1%BB%E5%92%8C%E6%8E%A5%E5%8F%A3#%E6%8A%BD%E8%B1%A1%E7%B1%BB%E8%A6%81%E4%B8%8D%E8%A6%81%E5%AE%9E%E7%8E%B0%E6%8E%A5%E5%8F%A3%E7%9A%84%E6%96%B9%E6%B3%95)
 - **[线程](https://github.com/FishInWater-1999/android_interviews/tree/master/Java/线程)**
+  - [AtomicReference 和 AtomicReferenceFieldUpdater 有何异同](https://github.com/FishInWater-1999/android_interviews/tree/master/Java/线程/AtomicReference 和 AtomicReferenceFieldUpdater 有何异同)
+  - [如何停止一个线程](https://github.com/FishInWater-1999/android_interviews/tree/master/Java/线程/如何停止一个线程)
+  - [如何写出线程安全的程序？](https://github.com/FishInWater-1999/android_interviews/tree/master/Java/线程/如何写出线程安全的程序？)
 - **[集合](https://github.com/FishInWater-1999/android_interviews/tree/master/Java/集合)**
+  - [Map的线程安全？](https://github.com/FishInWater-1999/android_interviews/tree/master/Java/%E9%9B%86%E5%90%88#map%E7%9A%84%E7%BA%BF%E7%A8%8B%E5%AE%89%E5%85%A8)
+  - [读多写少选哪个集合？](https://github.com/FishInWater-1999/android_interviews/tree/master/Java/%E9%9B%86%E5%90%88#%E8%AF%BB%E5%A4%9A%E5%86%99%E5%B0%91%E9%80%89%E5%93%AA%E4%B8%AA%E9%9B%86%E5%90%88)
 - attention：2020 春节自今，更新了大量内容，由于时间问题该目录尚未更新，请大家在相应目录下学习
 - **更新中，请保持关注**
 
