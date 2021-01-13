@@ -34,8 +34,7 @@
 > 其他目录：[Java 必知必会](https://github.com/FishInWater-1999/android_interviews#java-%E5%BF%85%E7%9F%A5%E5%BF%85%E4%BC%9A)   &#160;&#160;  [Android 知识点汇总](https://github.com/FishInWater-1999/android_interviews#android-%E7%9F%A5%E8%AF%86%E7%82%B9%E6%B1%87%E6%80%BB)
 
 ## 算法
-
-- **[排序](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E6%8E%92%E5%BA%8F.md)**
+- **[排序](https://github.com/hornhuang/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E6%8E%92%E5%BA%8F.md)**
   - [冒泡排序](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E6%8E%92%E5%BA%8F.md#%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F)
   - [归并排序](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E6%8E%92%E5%BA%8F.md#%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F)
   - [快速排序](https://github.com/FishInWater-1999/android_interviews/blob/master/%E7%AE%97%E6%B3%95/%E8%B6%85%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95/%E6%8E%92%E5%BA%8F.md#%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F)
